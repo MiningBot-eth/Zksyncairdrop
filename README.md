@@ -1,0 +1,2 @@
+# Zksyncairdrop
+Zksync Airdrop
